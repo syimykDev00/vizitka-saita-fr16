@@ -18,6 +18,7 @@ body {
 }
 
 #header {
+    background: linear-gradient(111deg, #005A81 0.33%, #00344A 100%) no-repeat center/cover;
     position: sticky;
     z-index: 100;
     top: 0;
