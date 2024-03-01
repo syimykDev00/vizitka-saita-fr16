@@ -4,7 +4,7 @@
 }
 
 .container {
-    width: 1140px;
+    width: 90%;
     margin: 0 auto;
 }
 
@@ -258,6 +258,11 @@ body {
     }
     .hero-general img {
         padding-bottom: 30px;
+    }
+    .hero-icons ion-icon {
+        color: white;
+        font-size: 40px;
+        margin: 0 15px;
     }
 }
 
